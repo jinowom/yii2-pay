@@ -25,9 +25,10 @@ composer.phar
 phpunit.phar
 # local phpunit config
 /phpunit.xml
+/phpunit.xml.dist
 
 # tests 目录
-/tests
+#/tests
 
 # composer.lock 文件
 composer.lock
